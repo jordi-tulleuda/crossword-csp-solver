@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.DS_Store
+.vscode/
+.idea/
+# University-provided wordlists and boards are intentionally not redistributed.
+MaterialsPractica/
+private-data/
+/.vs
